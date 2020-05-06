@@ -1,0 +1,19 @@
+{
+    "name": "Color-Sensor",
+    "version": "1.0.0",
+    "description": "颜色传感器",
+    "license": "MIT",
+    "core":true,
+    "dependencies": {
+        "core": "file:../core",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
